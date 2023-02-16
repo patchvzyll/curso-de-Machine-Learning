@@ -14,4 +14,7 @@ _Condicionales de Python
 _Bucles de Python
 _Repaso :Variable, tipos , estructuras de datos
 
-_Jueves 16 
+_M5 - 06 - Introducción a Machine Learning con Scikit-Learn.( Librerias :mas famosas )
+_ 07 - Regresión
+_ 09 - Folium
+_Prophet - Predecir el valor de Bitcoin
